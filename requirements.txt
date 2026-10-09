@@ -1,0 +1,4 @@
+aiogram>=3.7.0
+apscheduler>=3.10.0,<4
+python-dotenv
+tzdata
